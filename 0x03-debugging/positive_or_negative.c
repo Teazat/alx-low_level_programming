@@ -2,7 +2,7 @@
 
 /**
  * main - Determine if the number is positive, negetive or zero
- * 0 : is the number checked
+( * 0 : is the number checked
  * Return: 0 on success
  */
 
@@ -21,4 +21,5 @@ else
 printf("%d is %s\n", i, "zero");
 }
 return;
+
 }
