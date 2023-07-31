@@ -1,3 +1,6 @@
+#include "main.h"
+#include <stdio.h>
+
 /**
  * main - check the code
  *
@@ -7,7 +10,7 @@ int main(void)
 {
 	char *s = "hello, world";
 	char *f = "oleh";
-	
+
 	unsigned int n;
 
 	n = _strspn(s, f);
