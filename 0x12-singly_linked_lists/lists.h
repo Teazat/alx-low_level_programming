@@ -1,5 +1,3 @@
-lists.h
-
 #ifndef LISTS_H
 #define LISTS_H
 
@@ -11,7 +9,6 @@ lists.h
  *
  * Description: This structure defines a node for a singly linked list,
  * holding a string and its length. It also includes a pointer to the
- * next node in the list for linking purposes.
  */
 typedef struct list_s
 {
